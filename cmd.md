@@ -58,7 +58,9 @@ git branch
 ```
 git checkuot master
 ```
-
+### Слияние веток с master
+```
+git merch 
 
 
 
