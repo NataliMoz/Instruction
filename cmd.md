@@ -59,8 +59,12 @@ git branch
 git checkuot master
 ```
 ### Слияние веток с master
+
+Убедитесь, что ветка сохранена и перейдите с нее в ветку master, а дальше 
 ```
-git merch 
+git merge название ветки для слияния
+```
+
 
 
 
